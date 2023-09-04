@@ -2,7 +2,7 @@ export const catalogo = [
         {
         id: "1",
         marca: "Zara",
-        nome: "Casaco Larga com Bolsos",
+        nome: "Casaco Largo com Bolsos",
         preco: 70,
         imagem: "product-1.jpg",
         feminino: false
